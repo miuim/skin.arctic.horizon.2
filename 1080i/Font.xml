@@ -472,7 +472,7 @@
             <name>font_info_light</name>
             <filename>resource://resource.font.robotocjksc/RobotoCJKSC-Light.ttf</filename>
             <aspect>0.89</aspect>
-            <size>112</size>
+            <size>90</size>
         </font>
         <font>
             <name>font_info_black_doublerow</name>
@@ -485,7 +485,7 @@
             <name>font_info_light_doublerow</name>
             <filename>resource://resource.font.robotocjksc/RobotoCJKSC-Light.ttf</filename>
             <aspect>0.89</aspect>
-            <size>56</size>
+            <size>60</size>
             <linespacing>0.9</linespacing>
         </font>
 
