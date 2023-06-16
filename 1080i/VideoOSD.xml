@@ -172,7 +172,7 @@
 
                     <include content="OSD_Button">
                         <param name="autoclose" value="true" />
-                        <param name="visible" value="true" />
+                        <param name="visible" value="false" />
                         <param name="icon" value="special://skin/extras/icons/info2.png" />
                         <param name="visible" value="true" />
                         <param name="id" value="6500" />
