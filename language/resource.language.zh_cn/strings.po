@@ -384,12 +384,12 @@ msgstr "结束时间"
 #: /1080i/Info.xml
 msgctxt "#31073"
 msgid "mins"
-msgstr "分"
+msgstr "分钟"
 
 #: /1080i/Info.xml
 msgctxt "#31074"
 msgid "hr"
-msgstr "小时"
+msgstr "时"
 
 #: /1080i/VideoOSD.xml
 msgctxt "#31075"
