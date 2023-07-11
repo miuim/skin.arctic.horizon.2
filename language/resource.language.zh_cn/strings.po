@@ -19,7 +19,7 @@ msgstr ""
 #: /1080i/SettingsSystemInfo.xml
 msgctxt "#31000"
 msgid "Live TV / PVR"
-msgstr "直播电视 / PVR"
+msgstr "电视直播 / PVR"
 
 #: /1080i/Custom_Colors_1101.xml
 msgctxt "#31001"
@@ -384,7 +384,7 @@ msgstr "结束时间"
 #: /1080i/Info.xml
 msgctxt "#31073"
 msgid "mins"
-msgstr "分钟"
+msgstr "分"
 
 #: /1080i/Info.xml
 msgctxt "#31074"
@@ -448,7 +448,7 @@ msgstr "上次检查"
 #: /shortcuts/mainmenu.DATA.xml
 msgctxt "#31085"
 msgid "Live TV"
-msgstr "直播电视"
+msgstr "电视直播"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31086"
@@ -473,7 +473,8 @@ msgstr "最近播放"
 #: /shortcuts/overrides.xml
 msgctxt "#31090"
 msgid "In-Progress"
-msgstr "正在进行"
+msgstr "继续观看"
+#  msgstr "正在进行"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31091"
@@ -1208,7 +1209,7 @@ msgstr "指示器"
 #: /1080i/Items.xml
 msgctxt "#31236"
 msgid "Collection"
-msgstr "集合"
+msgstr "合集"
 
 #: /1080i/Items.xml
 msgctxt "#31237"
@@ -1288,7 +1289,7 @@ msgstr "使用滑动条显示解码器"
 #: /1080i/Items.xml
 msgctxt "#31252"
 msgid "Catch-up"
-msgstr "追赶"
+msgstr "追剧"
 
 #: /shortcuts/template.xml
 msgctxt "#31253"
