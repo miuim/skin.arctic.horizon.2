@@ -45,7 +45,8 @@
                         <onclick>PlayerControl(Play)</onclick>
                         <onfocus condition="Player.Forwarding | Player.Rewinding">PlayerControl(Play)</onfocus>
                         <onunfocus condition="Player.Forwarding | Player.Rewinding">PlayerControl(Play)</onunfocus>
-                        <onup>SetFocus(6101)</onup>
+                        <!-- <onup>SetFocus(6101)</onup> -->
+                        <onup>8200</onup> <!-- 8200 is the slider by chuck -->
                     </include>
 
                     <!-- Button 2 -->
